@@ -1,0 +1,42 @@
+{
+  "name": "rotate.js",
+  "version": "1.0.0",
+  "description": "The simple, easy-to-implement animation plugin to rotate icons, images, and elements.",
+  "main": "dist/js/rotate.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clarketm/Rotate.git"
+  },
+  "keywords": [
+    "rotate",
+    "rotation",
+    "animate",
+    "animation",
+    "easing",
+    "duration",
+    "degree",
+    "degrees",
+    "spin"
+  ],
+  "author": "clarketm <travis.m.clarke@gmail.com>",
+  "license": "MIT",
+  "homepage": "http://www.clarketravis.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ],
+  "devDependencies": {
+    "del": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.3"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "rotate.js",
+  "version": "1.0.0",
+  "authors": [
+    "clarketm <travis.m.clarke@gmail.com>"
+  ],
+  "description": "The simple, easy-to-implement animation plugin to rotate icons, images, and elements.",
+  "main": "dist/js/rotate.js",
+  "keywords": [
+    "rotate",
+    "rotation",
+    "animate",
+    "animation",
+    "easing",
+    "duration",
+    "degree",
+    "degrees",
+    "spin"
+  ],
+  "dependencies": {
+    "jquery": "~1.11.3"
+  },
+  "license": "MIT",
+  "homepage": "http://www.clarketravis.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ],
+  "_release": "1.0.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.0.0",
+    "commit": "1092b50146c1921b9702d0ef675412bb63a7cabb"
+  },
+  "_source": "https://github.com/clarketm/Rotate.git",
+  "_target": "^1.0.0",
+  "_originalSource": "rotate.js",
+  "_direct": true
+}
